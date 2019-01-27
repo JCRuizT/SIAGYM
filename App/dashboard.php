@@ -35,7 +35,7 @@ if(!isset($_SESSION["administrador"])){
 
 <title>Dashboard - SIAGYM</title>
 <meta name="viewport" content="width=device-width, user-scalable=no">
-<meta name="author" content="Julio Cesar Ruiz,Brayan Vasquez, Jhon Quiñones"/>
+<meta name="author" content="Julio Cesar Ruiz"/>
 
 <link rel="stylesheet" href="css/manifest-styles.css"/>
 <link rel="stylesheet" href="css/background.css"/>
